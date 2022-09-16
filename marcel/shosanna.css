@@ -94,3 +94,7 @@ img[title='Request time'], img[title='Seed time'], img[title='Upload time'], img
 }
 
 /* ------------------------------ Arriverderci ------------------------------ */
+
+.search-bar__search-field__input {
+  text-align: center;
+}
